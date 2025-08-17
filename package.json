@@ -1,0 +1,25 @@
+{
+  "name": "frontend-blog",
+  "version": "1.0.0",
+  "description": "前端技术博客",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "frontend",
+    "blog",
+    "vitepress",
+    "html",
+    "css",
+    "javascript",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
